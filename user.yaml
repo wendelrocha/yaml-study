@@ -1,0 +1,15 @@
+# User Information
+# The YAML file can be saved with extension .yml ou .yaml
+
+---
+- name: Wendel Rocha
+  job: DevOps noob
+  company: New Company
+  skills:
+    - Linux SysAdmin
+    - Ansible
+    - Docker
+    - Terraform
+    - AWS
+    - Git
+    - Terraform
